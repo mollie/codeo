@@ -1,9 +1,9 @@
-# Codeo Dag 1
+# Codeo Dag 1: HTML & CSS
 
-## HTML
-* Basic understanding of what happens on the browser
-* Structure of an HTML document
-* Simple tags (<a>, <img>, <div>/<section>, <p>, <ul>/<ol>/<li>, <h1>/…/<h6>)
-* Form tags? (<form>, <input>, <select>/<option>, <button>)
-
-## CSS (part 1)
+* Basic understanding of what happens on the browser (slides)
+* [Structure of an HTML document](./01-html-document-structure.html)
+* [HTML text tags](./02.1-html-text-tags.html)
+* [HTML media tags](./03-media-tags.html)
+* [CSS Colors](./04-colors.html)
+* [CSS Typography](./05-typography.html)
+* [Assignment 1](./06-assignment-1.html)

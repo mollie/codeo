@@ -1,0 +1,12 @@
+/**
+ * This part should cover:
+ * - background
+ * - color
+ * - gradients
+ * - box-shadow (while we're at it)
+ * - opacity (technically not color but fuck it)
+ */
+body {
+  color: red;
+  background: green;
+}

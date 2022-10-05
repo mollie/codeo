@@ -1,0 +1,29 @@
+/**
+ * This part should cover:
+ * - font-family
+ * - font-size
+ * - font-style
+ * - font-weight
+ * - letter-spacing
+ * - line-height
+ * - text-align
+ * - text-decoration
+ * - text-transform
+ */
+body {
+  font-family: 'Comic Sans';
+}
+
+h1 {
+  font-size: 2em;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
+h2 {
+  letter-spacing: 1em;
+}
+
+h3 {
+  text-align: right;
+}
