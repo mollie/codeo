@@ -4,11 +4,11 @@
 
 | Starttijd | Activiteit                |
 |-----------|---------------------------| 
-| 09:30     | Binnenlopen               |
-| 10:00     | Welkom bij Codeo          |
-| 10:05     | [Final Assignment]        |
+| 09:30     | Inloop                    |
+| 10:00     | Dagstart                  |
+| 10:05     | [Eindopdracht]            |
 | 12:00     | Lunch en spelletjes       |
-| 13:00     | [Final Assignment]        |
+| 13:00     | [Eindopdracht]            |
 | 15:00     | Presentaties en afronding |
 
 [Final Assignment]: ./../index.html
