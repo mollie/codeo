@@ -6,10 +6,13 @@
 |-----------|---------------------------| 
 | 09:30     | Inloop                    |
 | 10:00     | Dagstart                  |
-| 10:05     | [Form elements]           |
-| 11:05     | [Form interactivity]      |
+| 10:05     | [Formulieren]             |
+| 11:00     | Pauze                     |
+| 11:10     | [Formulieren]             |
 | 12:00     | Lunch en spelletjes       |
-| 13:00     | [Eindopdracht (deel 1)]   |
+| 13:00     | [Eindopdracht]            |
+| 14:30     | Pauze                     |
+| 14:40     | [Eindopdracht]            |
 | 15:30     | Presentaties en afronding |
 
 [Form elements]: ./01-form-elements.html

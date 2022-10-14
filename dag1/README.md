@@ -6,14 +6,13 @@
 |-----------|----------------------------------------| 
 | 09:30     | Inloop                                 |
 | 10:00     | Dagstart en Introducties               |
-| 10:20     | Wat gebeurt er in de browser? (slides) |
-| 11:00     | [Structure of an HTML document]        | 
-| 11:30     | [HTML text tags]                       |
+| 10:30     | Wat gebeurt er in de browser? (slides) |
+| 11:00     | Pauze                                  | 
+| 11:10     | [HTML]                                 |
 | 12:00     | Lunch en spelletjes                    |
-| 13:00     | [HTML media tags]                      |
-| 13:30     | [CSS Colors]                           |
-| 14:00     | [CSS Typography]                       |
-| 14:30     | [Opdracht 1]                           |
+| 13:00     | [HTML & CSS]                           |
+| 14:30     | Pauze                                  |
+| 14:40     | [HTML & CSS]                           |
 | 15:30     | Presentaties en afronding              |
 
 [Structure of an HTML document]: ./01-html-document-structure.html
