@@ -20,7 +20,7 @@ geven aan of iets waar is of niet.
 
 */
 let nummer = 1; // integer
-let hetIsDinsdag = true; // boolean
+let hetIsWoensdag = true; // boolean
 
 /*
 

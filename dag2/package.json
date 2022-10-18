@@ -4,7 +4,9 @@
   "description": "Codeo Dag 2",
   "main": "index.js",
   "scripts": {
-    "start": "npx parcel ./06-variables-loops-conditionals/index.html"
+    "start-5": "npx parcel ./05-variables-loops-conditionals/index.html",
+    "start-6": "npx parcel ./06-interactivity/index.html",
+    "start-7": "npx parcel ./07-opdracht-2/index.html"
   },
   "keywords": [],
   "author": "",

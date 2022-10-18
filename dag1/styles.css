@@ -1,8 +1,11 @@
-body > div {
-   max-width: 800px;
-   margin: 0 auto;
-}
-
-body > div > * {
-  margin-bottom: 30px;
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(18, 167, 204);
+  background-image:
+    radial-gradient(circle, rgba(226, 255, 0, 1) 0%, rgba(171, 69, 243, 1) 27%, rgba(77, 226, 168, 1) 66%, rgba(0, 212, 255, 1) 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: darkblue;
 }

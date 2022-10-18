@@ -1,11 +1,12 @@
-/**
- * This part should cover:
+/*
+ * We gaan het hebben over:
  * - display (inline, block)
  * - width
  * - height
  * - margin
  * - padding
- * - transform
+ *
+ * Maar eerst: de CSS class
  */
 div {
   display: block;
