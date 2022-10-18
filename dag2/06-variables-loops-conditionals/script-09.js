@@ -1,0 +1,5 @@
+/*
+
+Ok nu jij. Maak hieronder een variabele aan met je favoriete artiest en schrijf die naar de HTML.
+
+*/

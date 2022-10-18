@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  font-family: sans-serif;
+  width: 100%;
+  font-size: 100px;
+  text-align: center;
+}
