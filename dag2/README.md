@@ -17,6 +17,8 @@
 
 ## JavaScript app starten
 
+Vervang het cijfer 5 hieronder door de oefening die je wilt starten. Alleen
+voor oefening 5, 6, en 7.
 ```
-npm start
+npm run start-5
 ```
