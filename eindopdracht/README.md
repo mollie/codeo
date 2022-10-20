@@ -1,17 +1,3 @@
-# Assignment
+# Eindopdracht
 
-## Dagschema
-
-| Starttijd | Activiteit                |
-|-----------|---------------------------| 
-| 09:30     | Inloop                    |
-| 10:00     | Dagstart                  |
-| 10:05     | [Eindopdracht]             |
-| 11:00     | Pauze                     |
-| 11:10     | [Eindopdracht]             |
-| 12:00     | Lunch en spelletjes       |
-| 13:00     | [Eindopdracht]            |
-| 14:50     | Pauze                     |
-| 15:00     | Presentaties en afronding |
-
-[Final Assignment]: ./../index.html
+We gaan een website maken waarmee je foto's kan nemen en je foto's ook kan bekijken. 

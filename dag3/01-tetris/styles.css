@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background: #f00;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+body {
+  /* De browser zet standaard wat margin op de body, die willen we weghalen */
+  margin: 0;
+}

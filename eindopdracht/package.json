@@ -1,0 +1,15 @@
+{
+  "name": "codeo-eindopdracht",
+  "version": "1.0.0",
+  "description": "Codeo Eindopdracht",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx parcel ./index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html2canvas": "^1.4.1"
+  }
+}

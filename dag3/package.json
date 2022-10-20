@@ -1,0 +1,13 @@
+{
+  "name": "codeo-dag2",
+  "version": "1.0.0",
+  "description": "Codeo Dag 3",
+  "main": "index.js",
+  "scripts": {
+    "start-1": "npx parcel ./01-tetris/index.html",
+    "start-3": "npx parcel ./03-rekenmachine/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

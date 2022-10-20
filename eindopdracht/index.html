@@ -1,9 +1,29 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Titel</title>
+    <title>Neem een foto | MyPhoto</title>
+
+    <link href="foto-filters.css" rel="stylesheet"></link>
+    <link href="style.css" rel="stylesheet"></link>
   </head>
   <body>
-    <!-- Provide most of the HTML for the UI -->
+    <div class="content">
+
+      <!-- Neem een nieuwe foto -->
+      <div class="foto-preview">
+      </div>
+
+      <canvas></canvas>
+
+      <div class="output">
+        <img class="foto" alt="" />
+      </div>
+    </div>
+
+    <button class="maak-foto">📷</button>
+    <button class="cancel">×</button>
+
+    <input type="file">
+    <script src="main.js" type="module"></script>
   </body>
 </html>
