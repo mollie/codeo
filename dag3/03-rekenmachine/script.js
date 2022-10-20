@@ -15,3 +15,14 @@
   Bonus:
   - Maak je rekenmachine mooi met CSS
 */
+let cijferLinks = document.querySelector('.cijferLinks');
+let cijferRechts = document.querySelector('.cijferRechts');
+let totaal = document.querySelector('span');
+
+let knop = document.querySelector('button');
+
+knop.addEventListener('click', berekenen);
+
+function berekenen() {
+  totaal.innerText = cijferLinks.value * cijferRechts.value;
+}
