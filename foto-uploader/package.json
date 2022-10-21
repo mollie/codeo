@@ -1,7 +1,7 @@
 {
-  "name": "codeo-eindopdracht",
+  "name": "codeo-foto-uploader",
   "version": "1.0.0",
-  "description": "Codeo Eindopdracht",
+  "description": "Codeo Foto Uploader",
   "main": "main.js",
   "browserslist": "defaults and supports es6-module",
   "scripts": {

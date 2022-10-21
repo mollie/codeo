@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Codeo Foto Uploader</title>
+
+    <link href="./toast.css" rel="stylesheet"></link>
+    <link href="./styles.css" rel="stylesheet"></link>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Secular+One">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div class="name-picker is-hidden">
+      <form>
+        <h2>Kies je naam</h2>
+        <select required>
+          <option value='bohdan-emilio-jeremiah'>Bohdan, Emilio & Jeremiah</option>
+          <option value='fiona-juleiny'>Fiona & Juleiny</option>
+          <option value='nayeli-umeyme'>Nayeli & Umeyme</option>
+          <option value='rahiana-youssra'>Rahiana & Youssra</option>
+          <option value='cahide-sharon'>Cahide & Sharon</option>
+        </select>
+        <button>Ok</button>
+      </form>
+    </div>
+
+    <div class="photo-uploader">
+      <form>
+        <h2>Codeo Foto Uploader</h2>
+        <div class="upload-field">
+          <label>
+            <span>Kies een foto</span>
+            <input type="file" accept="image/*" required>
+          </label>
+          <figure class="preview is-hidden"></figure>
+        </div>
+        <button class="button-upload">
+          <span class="button-upload-label">Uploaden</span>
+          <span class="lds-heart"><span></span></span>
+        </button>
+        <button class="button-cancel" type="button">Cancel</button>
+      </form>
+    </div>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
